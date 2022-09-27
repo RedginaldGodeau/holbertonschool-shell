@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(ls -a)" >> task
+echo "$(ls -a)" >> ls_cwd_content
